@@ -1,16 +1,4 @@
-# OCSBERT
----
-language:
-- cu
-tags:
-- bert
-- fill-mask
-- old-church-slavonic
-license: apache-2.0
-base_model:
-- ai-forever/ruBert-base
-pipeline_tag: fill-mask
----
+
 
 # OCSBERT
 
